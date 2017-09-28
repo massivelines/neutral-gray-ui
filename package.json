@@ -1,0 +1,17 @@
+{
+  "name": "neutral-gray-ui",
+  "theme": "ui",
+  "version": "0.1.0",
+  "description": "A gray theme that is easy to read, blends between most dark and light ui themes",
+  "keywords": [
+    "ui",
+    "theme"
+    "gray"
+    "neutral"
+  ],
+  "repository": "https://github.com/atom-community/ui-theme-template",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
