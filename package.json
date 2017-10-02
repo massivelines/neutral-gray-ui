@@ -11,6 +11,7 @@
   ],
   "repository": "https://github.com/atom-community/ui-theme-template",
   "license": "MIT",
+  "main": "lib/neutral-gray-ui",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   }

@@ -1,0 +1,9 @@
+{
+  "fontSize": {
+    "description": "Set the global font size for this theme. A bit finicky at the moment, can sometimes take a few reloads to see changes.",
+    "type": "integer",
+    "default": 12,
+    "minimum": 8,
+    "maximum": 24
+  }
+}

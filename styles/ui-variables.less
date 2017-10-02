@@ -10,6 +10,8 @@
 // Try to edit some of the values below to see your theme change.
 // A good start is to change the color of the `@base-background-color` variable.
 
+@import "../styles/ui-font";
+
 
 // Text Colors
 @text-color:           #adadad;
@@ -86,8 +88,10 @@
 @ui-site-color-5: #EBDD5B;             // yellow
 
 // Sizes
-@font-size: 14px;
-@input-font-size: 14px;
+
+// -------------------- setup font size to be pulled from other file then refresh theme when changed
+@font-size: @ui-fontsize;
+@input-font-size: @font-size;
 
 @disclosure-arrow-size: @font-size;
 
