@@ -1,22 +1,27 @@
-# Neutral Gray UI
+# Atom UI Theme Template
 
-A gray UI theme for Atom. This theme is lighter than most of the dark themes and is easy to read. The goal was to make a theme that was easy to read no matter the users environment.
+This is a __starter template__ for creating an Atom UI theme.
 
-This theme will complement to whatever syntax theme use.
+This template only includes the __minimum of styling__ needed and comes with a neutral look. It could already be used as a real theme, but its purpose is to serve as a basis for creating your own theme. It is documented throughout and invites you to make changes to your liking. For some inspiration take a look at other Atom themes at [atom.io/themes](https://atom.io/themes/). Or you're always free to fork a theme that already comes close to your vision.
 
-This theme was designed to work best with [Atom Darcula Syntax](https://atom.io/packages/darcula-syntax).
+Happy theming! 🚀
+
+
+## Getting started
+
+1. Fork this repository.
+2. Continue with step 2 from [Creating a UI Theme](http://flight-manual.atom.io/hacking-atom/sections/creating-a-theme/#creating-a-ui-theme)
+
+If you get stuck somewhere, feel free to create an [issue](https://github.com/atom-community/ui-theme-template/issues/new).
+
+ps. Don't forget to delete the above and edit the below in your own `README.md`.
+
+
+---
+
+
+# My UI theme
+
+A short description of your theme.
 
 ![A screenshot of your theme](https://cloud.githubusercontent.com/assets/378023/8842525/4215f26c-3136-11e5-9d94-d2c078a05d24.png)
-
-## Installation
-  1. Open *File > Settings > Install*
-  2. Search for "neutral-gray-ui"
-
-## Configuration
-
-### Font Size
-  1. Open *File > Settings > Themes*
-  2. Press the <img src="http://www.clipartkid.com/images/28/gear-icon-clip-art-at-clker-com-vector-clip-art-online-royalty-free-rX2jGG-clipart.png" alt="cog" width="12" height="12"/> button next to selected UI theme
-  3. Enter a px size
-
-If you get stuck somewhere, something looks bad, or have an idea, feel free to create an [issue](https://github.com/massivelines/neutral-gray-ui/issues/new).

@@ -1,16 +1,15 @@
 {
   "name": "neutral-gray-ui",
   "theme": "ui",
-  "version": "0.1.3",
-  "description": "A gray theme that is easy to read",
+  "version": "0.1.2",
+  "description": "A gray theme that is easy to read, blends between most dark and light ui themes",
   "keywords": [
     "ui",
     "theme",
     "gray",
-    "neutral",
-    "grey"
+    "neutral"
   ],
-  "repository": "https://github.com/massivelines/neutral-gray-ui",
+  "repository": "https://github.com/atom-community/ui-theme-template",
   "license": "MIT",
   "main": "lib/neutral-gray-ui",
   "engines": {
