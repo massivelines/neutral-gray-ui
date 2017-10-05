@@ -6,11 +6,7 @@ This theme will complement to whatever syntax theme use.
 
 This theme was designed to work best with [Atom Darcula Syntax](https://atom.io/packages/darcula-syntax).
 
-<<<<<<< HEAD
 ![A screenshot of your theme](https://raw.githubusercontent.com/massivelines/neutral-gray-ui/master/screenshot/screenshot.jpg)
-=======
-![A screenshot of your theme](neutral-gray-ui/screenshot/screenshot.jpg)
->>>>>>> origin/master
 
 ## Installation
   1. Open *File > Settings > Install*
