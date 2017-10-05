@@ -6,7 +6,7 @@ This theme will complement to whatever syntax theme use.
 
 This theme was designed to work best with [Atom Darcula Syntax](https://atom.io/packages/darcula-syntax).
 
-![A screenshot of your theme](https://cloud.githubusercontent.com/assets/378023/8842525/4215f26c-3136-11e5-9d94-d2c078a05d24.png)
+![A screenshot of your theme](https://raw.githubusercontent.com/massivelines/neutral-gray-ui/master/screenshot/screenshot.jpg)
 
 ## Installation
   1. Open *File > Settings > Install*
