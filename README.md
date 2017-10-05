@@ -1,10 +1,10 @@
 # Neutral Gray UI
 
-A gray UI theme for Atom. This theme is lighter than most of the dark themes and is easy to read. The goal was to make a theme that was easy to read no matter the users environment.
+A gray UI theme for Atom with changeable font size. The goal was to make a theme that was not as dark and easier to read than most of the dark themes. It uses muted colors and different shades of gray.
 
-This theme will complement to whatever syntax theme use.
+This theme will complement whatever syntax theme used. The goal was to have the any syntax to stand out while making the UI elements easy to locate and easy to determine what is selected.
 
-This theme was designed to work best with [Atom Darcula Syntax](https://atom.io/packages/darcula-syntax).
+Suggested Syntax: [Atom Darcula Syntax](https://atom.io/packages/darcula-syntax).
 
 ![A screenshot of your theme](https://raw.githubusercontent.com/massivelines/neutral-gray-ui/master/screenshot/screenshot.jpg)
 
