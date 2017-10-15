@@ -8,7 +8,11 @@
     "theme",
     "gray",
     "neutral",
-    "grey"
+    "grey",
+    "minimal",
+    "font",
+    "size",
+    "configurable"
   ],
   "repository": "https://github.com/massivelines/neutral-gray-ui",
   "license": "MIT",
