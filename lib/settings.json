@@ -1,6 +1,7 @@
 {
-  "fontSize": {
-    "description": "Set the global font size for this theme. A bit finicky at the moment, can sometimes take a few reloads to see changes.",
+  "uiFontSize": {
+    "title" : "UI Font Size",
+    "description": "Set the global font size for this theme.",
     "type": "integer",
     "default": 12,
     "minimum": 8,
