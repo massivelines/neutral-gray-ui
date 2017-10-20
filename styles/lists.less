@@ -21,17 +21,14 @@
 
 
 // List Tree -------------------
+// Files and Folder colors in the tree-view
 .list-tree {
   color: @text-color;
   .selected {
     color: @text-color-selected;
   }
-  .status-modified {
-    color: @text-color-warning;
-  }
-  .status-added {
-    color: @text-color-success;
-  }
+  // mixin for git.less > git-status
+  .git-status;
 }
 
 
